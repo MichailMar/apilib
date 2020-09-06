@@ -1,4 +1,4 @@
 # Использование:
 
-~~~python api = apilib.ApiMonitor("token")
-#code acid = api.request("getaciduser", "login=login&pass=pass")~~~
+~~~Python api = apilib.ApiMonitor("token")
+acid = api.request("getaciduser", "login=login&pass=pass") ~~~
